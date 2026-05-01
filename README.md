@@ -88,6 +88,12 @@ Knowledge-Intelligence-System/
 │   └── templates/
 │       └── index.html
 ```
+## Secret_Key:
+
++ OPENAI_API_KEY=""
++ AWS_ACCESS_KEY=""
++ AWS_SECRET_KEY=""
++ AWS_BUCKET_NAME=""
 
 ## Features
 
